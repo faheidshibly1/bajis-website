@@ -83,8 +83,8 @@ export default function Home() {
                     Bajis Awawdeh
                   </h1>
                   <p className="max-w-2xl text-lg leading-8 text-slate-600 sm:text-xl">
-                    Helping individuals and families put the right legal
-                    structure in place to avoid probate, protect assets,
+                    Helping individuals and families nationwide put the right
+                    legal structure in place to avoid probate, protect assets,
                     minimize risk, and plan for the future.
                   </p>
                 </div>
@@ -235,7 +235,7 @@ export default function Home() {
               <div className="grid gap-8 lg:grid-cols-[0.75fr_1.25fr] lg:items-start">
                 <SectionHeading
                   eyebrow="Strategic Partner"
-                  title="Coordinated support for every family need."
+                  title="Coordinated nationwide support for every family need."
                   description="Select matters may be supported by specialized partner organizations where appropriate."
                 />
 
