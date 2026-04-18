@@ -351,7 +351,7 @@ export default function Home() {
           </div>
           <p className="max-w-2xl text-sm leading-6 text-slate-300">
             {/* Replace this disclaimer with your jurisdiction-specific legal disclaimer. */}
-            Disclaimer placeholder: This website is for informational purposes
+            This website is for informational purposes
             only and does not create an attorney-client relationship.
           </p>
         </div>
